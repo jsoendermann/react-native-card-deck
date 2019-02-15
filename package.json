@@ -1,0 +1,20 @@
+{
+  "name": "react-native-card-deck",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "UNLICENSED",
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc --watch",
+    "prepare": "npm run build"
+  },
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
+  "devDependencies": {
+    "@types/react": "^16.8.3",
+    "@types/react-native": "^0.57.36",
+    "typescript": "^3.3.3"
+  }
+}

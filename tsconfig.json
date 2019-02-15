@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "jsx": "react-native",
+    // "target": "es3",
+    // "strict": true,
+    "sourceMap": false,
+    "declaration": true,
+    "lib": ["es2017"]
+  }
+}
